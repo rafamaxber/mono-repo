@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "mono-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rafael Bernardo <rafamaxber@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}
